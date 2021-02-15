@@ -20,6 +20,7 @@ public class IntArray {
         int[] numbers = new int[]{3,7,5,1,8,0,4};
         
         System.out.println(" Hej ");
+        System.out.println("    hej igen ");
         for (int i = 0; i < numbers.length; i++) {
             
         }
